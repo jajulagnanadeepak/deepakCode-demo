@@ -1,2 +1,3 @@
 # deepakCode-demo
-This is first Git Repository
+This is first Git Repository.
+Myself Deepak
